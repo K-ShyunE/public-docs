@@ -1,0 +1,10 @@
+@@||analytics.google.com^$important
+@@||analytics.edaily.co.kr^$important
+@@||www.edaily.co.kr^$important,document
+@@||isplus.com^$important,document
+@@||localhost^$important
+@@||jenkins.kshyun.kr^$document
+@@||jenkins.edaily.kr^$document
+@@||us-east-1.console.aws.amazon.com^$important,document
+@@||www.perplexity.ai^$important,document
+@@||map.naver.com^$document
